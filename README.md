@@ -24,8 +24,11 @@ cd <your-project-root>
 
 ### 2. 安装依赖
 
+
+```node
 cd backend
 npm install
+```
 
 ### 3. 如何启动
 
