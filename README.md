@@ -41,3 +41,11 @@ npm install
 ### 3. 如何启动
 
 直接 node index.js即刻 默认外网开放 可以在Config里修改 
+
+
+
+### 更多资源分享频道：
+
+https://t.me/Core_SourceCode
+
+
