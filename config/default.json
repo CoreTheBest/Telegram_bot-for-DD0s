@@ -1,0 +1,15 @@
+{
+  "Core_Bot" : {
+    "Port" : 8964,
+    "Host" : "0.0.0.0",
+    "Cache_mode": "RAM",
+    "SQL_file": "core.db"
+  },
+  "Redis": {
+    "host": "",
+    "password": "",
+    "port": 6379,
+    "tls": {},
+    "db": 0
+  }
+}
