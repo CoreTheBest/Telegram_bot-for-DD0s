@@ -6,10 +6,10 @@
 ---
 
 ## 目录结构
-/backend # Node.js Fastify 后端（接口、数据层等）
-/frontend/bot_web # Vue3 前端工程（Element-Plus、Tailwind、Vite）
-/database # Sequelize 数据模型
-/config # 配置文件（config/default.json等）
+/backend # Node.js Fastify 后端（接口、数据层等）          
+/frontend/bot_web # Vue3 前端工程（Element-Plus、Tailwind、Vite）      
+/database # Sequelize 数据模型      
+/config # 配置文件（config/default.json等）    
 
 ---
 
