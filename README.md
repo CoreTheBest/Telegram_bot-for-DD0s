@@ -1,20 +1,14 @@
 # CoreBot TelegramBot + Web可视化管理 一体 
 
-# 当前版本1.0.1 [查看完整更新日志 »](./CHANGELOG.md) 
+# 当前版本1.0.1 [更新日志 »](./CHANGELOG.md) 
 
 
-一套基于 Fastify + Vue3 + Element-Plus 的机器人服务管理系统  
-前后端分离，支持 API 管理、方法管理、套餐管理、卡密管理、用户管理等功能。
-同时机器人在线运行启动
+支持 卡密管理 / API攻击提交 / API卡槽管理 / 用户按照套餐&积分提交攻击
 
 ---
 
-## 目录结构
-/backend # Node.js Fastify 后端（接口、数据层等）          
-/backend/bot # Node.js 机器人   
-/frontend/bot_web # Vue3 前端工程（Element-Plus、Tailwind、Vite）      
-/database # Sequelize 数据模型      
-/config # 配置文件（config/default.json等）    
+## 关键参数
+在 Config/default.json下 可以修改 web登陆账户 以及启动端口
 
 ---
 
@@ -41,12 +35,10 @@ npm install
 
 ### 3. 如何启动
 
-直接 node index.js即刻 默认外网开放 可以在Config里修改 
+直接 node index.js 即刻 默认外网开放 可以在Config里修改 
 
 
 
 ### 更多资源分享频道：
 
-[https://t.me/Core_SourceCode](https://t.me/Core_redirection)
-
-
+https://t.me/Core_redirection
