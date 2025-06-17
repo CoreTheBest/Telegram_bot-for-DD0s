@@ -9,6 +9,7 @@
 
 ## 关键参数
 在 Config/default.json下 可以修改 web登陆账户 以及启动端口
+API格式为 https://127.0.0.1/start?target=[target]&port=[port]&duration=[time]&method=[method]
 
 ---
 
