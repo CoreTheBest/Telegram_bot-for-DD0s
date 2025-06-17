@@ -1,6 +1,7 @@
 # CoreBot TelegramBot + Web可视化管理 一体 
 
-## 此版本仅为demo 看情况会后续更新
+# 当前版本1.0.1 [查看完整更新日志 »](./CHANGELOG.md) 
+
 
 一套基于 Fastify + Vue3 + Element-Plus 的机器人服务管理系统  
 前后端分离，支持 API 管理、方法管理、套餐管理、卡密管理、用户管理等功能。
