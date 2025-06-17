@@ -47,6 +47,6 @@ npm install
 
 ### 更多资源分享频道：
 
-https://t.me/Core_SourceCode
+[https://t.me/Core_SourceCode](https://t.me/Core_redirection)
 
 
